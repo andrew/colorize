@@ -34,4 +34,5 @@ Gem::Specification.new do |s|
   ]
 
   s.metadata['rubygems_mfa_required'] = 'true'
+  s.metadata["funding_uri"] = "https://github.com/sponsors/fazibear"
 end
